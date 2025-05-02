@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400px" height="400px" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <clipPath id="clip0_2_140">
+      <rect width="400" height="400" fill="#fff"></rect>
+    </clipPath>
+    <path id="path-0" style="fill: none;" d="M 35.652 317.287 C 86.638 379.549 168.859 364.124 230.837 359.357 C 280.644 350.199 323.033 347.813 340.415 325.603 C 342.98 322.325 343.18 317.465 344.818 313.863 L 345.307 307.503 C 345.307 297.191 343.839 286.909 343.839 276.684"></path>
+    <bx:export>
+      <bx:file format="svg" href="#object-0"></bx:file>
+    </bx:export>
+  </defs>
+  <g clip-path="url(#clip0_2_140)" transform="matrix(1, 0, 0, 1, 0, 0.779999)" style="transform-origin: 200px -0.779999px;">
+    <path fill="#18BCF2" d="M320 299C320 307.25 313.25 314 305 314H95C86.75 314 80 307.25 80 299V209C80 200.75 84.7812 189.218 90.6125 183.387L189.387 84.5934C195.219 78.7622 204.763 78.7622 210.594 84.5934L309.387 183.387C315.219 189.218 320 200.75 320 209V299Z"></path>
+    <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 66px; font-weight: 700; white-space: pre;" id="object-0" x="151.978" y="307.45">OS</text>
+    <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 131.22px; font-style: italic; line-height: 178.743px; white-space: pre;" transform="matrix(0.527491, 0, 0, 0.563937, 72.201935, 83.625298)" x="133.061" y="192.055">Ubi</text>
+    <line style="stroke-linecap: round; stroke-width: 14px; fill: none; stroke: rgb(249, 249, 249); transform-origin: 184px 227.38px;" x1="185" y1="239.58" x2="185" y2="215.18"></line>
+    <polyline style="fill: none; stroke-linejoin: round; stroke-width: 14px; stroke: rgb(249, 249, 249);" points="133 314.087 133 243.406 269 243.406 269 314.42"></polyline>
+    <line style="stroke-linecap: round; stroke-width: 14px; fill: none; stroke: rgb(249, 249, 249);" x1="110" y1="265.22" x2="130" y2="265.22"></line>
+    <line style="stroke-linecap: round; stroke-width: 14px; fill: none; stroke: rgb(249, 249, 249);" x1="154" y1="239.58" x2="154" y2="215.18"></line>
+    <line style="stroke-linecap: round; stroke-width: 14px; fill: none; stroke: rgb(249, 249, 249);" x1="216" y1="239.58" x2="216" y2="215.18"></line>
+    <line style="stroke-linecap: round; stroke-width: 14px; fill: none; stroke: rgb(249, 249, 249);" x1="247" y1="239.58" x2="247" y2="215.18"></line>
+    <line style="stroke-linecap: round; stroke-width: 14px; fill: none; stroke: rgb(249, 249, 249);" x1="271" y1="265.22" x2="291" y2="265.22"></line>
+    <line style="stroke-linecap: round; stroke-width: 14px; fill: none; stroke: rgb(249, 249, 249);" x1="271" y1="295" x2="291" y2="295"></line>
+    <line style="stroke-linecap: round; stroke-width: 14px; fill: none; stroke: rgb(249, 249, 249);" x1="110" y1="295" x2="130" y2="295"></line>
+  </g>
+</svg>
