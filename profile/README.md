@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the organization to maintain all repositories related to UbiHome - a ubiquitous cross-platform cli tool to connect any OS to HomeAssistant. 
+This is the organization to maintain all repositories related to UbiHome - a ubiquitous cross-platform cli tool to connect any OS and its functionalities to HomeAssistant. 
 
 <!--
 
